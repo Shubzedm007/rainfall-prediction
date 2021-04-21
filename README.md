@@ -22,3 +22,4 @@ can be done, They are
   testing. We apply various statistical and machine learning approaches(*SVM*,
   etc) in prediction and make analysis over various approaches. By using various
   approaches we try to minimize the error.
+@Shubham Nalawade
